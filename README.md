@@ -66,5 +66,5 @@
 <br /><br />
 
 #### Find me around the web 🌎:
-- 💼 Connecting to me on <a href="https://www.linkedin.com/in/chaiwat-tungtongsoontorn-987974b8/">LinkedIn</a>
+- 💼 Connecting to me on <a href="https://www.linkedin.com/in/NickCoder">LinkedIn</a>
 - mail to me on <a href="mailto:nickt.tnick@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="80" height="15" /></a>

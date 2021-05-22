@@ -2,7 +2,7 @@
 
 <br />
 
-6 years experiences in tech companies, from small software house to big company, has brought Nick to become expert in Technology skills such as, r & d technology trend, management project and how to maintain his products. He still investigates on his career technology. Because digital is growing up as real world is spinning so fast. His duty is to keep digital world goes with this world.
+Digital Disruption would be called new normal to digital era now. We cannot deny that digital is mainly drive many businesses forward. Not only business that I served, human being is counted for my goal to make it more well being. I am willing to see how digital trend evolved. So be more convinced, I still keep learning and bringing edges corner of technologies to complete my's mission.
 
 <br /><br />
 
@@ -54,11 +54,17 @@
         <img height="64px" src="https://miro.medium.com/max/700/0*86fjpCFnG3ZFj5sX">
       </td>
       <td width="25%" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png">
+      </td>
+      <td width="25%" align="center">
         <span>GCP</span><br><br><br>
         <img height="64px" src="https://miro.medium.com/max/700/1*urMF0EgCJ7YbtK090Rdikw.png">
       </td>
-      <td width="25%" align="center"></td>
-      <td width="25%" align="center"></td>
+      <td width="25%" align="center">
+        <span>GCP</span><br><br><br>
+        <img height="64px" src="https://www.scalefactory.com/blog/2020/06/25/what-we-are-looking-forward-to-in-terraform-0.13/Terraform.png">
+      </td>
     </tr>
   </tbody>
 </table>

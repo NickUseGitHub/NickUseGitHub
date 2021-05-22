@@ -62,7 +62,7 @@ Digital Disruption would be called new normal to digital era now. We cannot deny
         <img height="64px" src="https://miro.medium.com/max/700/1*urMF0EgCJ7YbtK090Rdikw.png">
       </td>
       <td width="25%" align="center">
-        <span>GCP</span><br><br><br>
+        <span>Terraform</span><br><br><br>
         <img height="64px" src="https://www.scalefactory.com/blog/2020/06/25/what-we-are-looking-forward-to-in-terraform-0.13/Terraform.png">
       </td>
     </tr>
